@@ -15,6 +15,7 @@ Clone this repository using git clone.
 From your favorite terminal, navigate to the directory of your installation (e.g., cd).
 Using python, run the following command:
 `python main.py`
+
 Then, enter the name of your home city/town and the name of your favorite pet (or any other pet name you can imagine).
 
 The program will return a band name for you to use.
