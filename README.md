@@ -12,7 +12,7 @@ CMD/Powershell/Bash, or terminal of choice
 ```
 
 Clone this repository using git clone.
-From your favorite terminal, navigate to the directory of your installation (e.g., cd).
+From your favorite terminal, navigate to the directory of your installation (e.g., using `cd`).
 Using python, run the following command:
 `python main.py`
 
